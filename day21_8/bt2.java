@@ -1,4 +1,4 @@
-package bai1;
+package day21_8;
 
 public class bt2 {
     public static void main(String[] args) {
