@@ -9,7 +9,7 @@ import java.util.Scanner;
  *
  * @author Administrator
  */
-public class bt3 {
+public class bt3 { 
 
     /**
      * @param args the command line arguments

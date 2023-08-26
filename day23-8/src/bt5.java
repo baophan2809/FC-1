@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Administrator
  */
-public class bt5 {
+public class bt5 { 
 
     /**
      * @param args the command line arguments

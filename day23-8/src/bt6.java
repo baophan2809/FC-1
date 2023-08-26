@@ -10,7 +10,7 @@
  */
 import java.util.Scanner;
 public class bt6 {
-
+ 
     /**
      * @param args the command line arguments
      */
