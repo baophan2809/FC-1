@@ -21,9 +21,7 @@ public class Exercise6 {
             if (n % i == 0)
                 sum += i;
         }
-        if (sum == n)
-            return true;
-        return false;
+        return sum == n;
     }
 
     public static void printNPerfect(int n) {
